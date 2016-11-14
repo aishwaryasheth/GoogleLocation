@@ -101,6 +101,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
             chooser=intent.createChooser(intent,"Launch Maps");
             startActivity(chooser);
+            //jkjkjkjkjk
         }
 
     }
